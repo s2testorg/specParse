@@ -1,0 +1,32 @@
+
+# table::One <p1>
+
+* table should have this <p1> in each cell
+
+ONE <p1>    | TWO <p1>
+------ |  ---
+cell 1 <p1> | cell 2 <p1>
+cell 3 <p1> | cell 4 <p1>
+
+# table::Two <p1> and <p2>
+This is my description test
+
+* table with two parameters
+
+ONE <p1>    | TWO <p2>
+----------- |  ---
+cell 1 <p1> | cell 2 <p2>
+cell 3 <p1> | cell 4 <p2>
+
+# table::Three <p1>
+
+* 1st step
+  * sub-bullet
+  
+   ONE <p1>    | TWO <p1>
+   ------ |  ---
+   cell 1 <p1> | cell 2 <p1>
+   cell 3 <p1> | cell 4 <p1>
+  * sub-bullet
+
+   

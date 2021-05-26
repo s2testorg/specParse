@@ -1,0 +1,18 @@
+
+# link::One <p1> <p2>
+
+* <p1> url: <p2>
+* markdown [<p1>](<p2>) 
+
+# link::Two <p1> 
+
+* link: https://<p1>.com
+* link with quotes: "https://<p1>.com"
+* markdown [<p1>](https://<p1>.com)
+
+
+# link::Three <p1> 
+
+* link: www.<p1>.com
+* link with quotes: "www.<p1>.com"
+* markdown [<p1>](www.<p1>.com)
